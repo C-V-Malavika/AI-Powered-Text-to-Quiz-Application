@@ -6,9 +6,7 @@ This application was built using Flutter, Firebase with a clean architecture, de
 
 ## SCREENSHOTS
 
-![image](https://github.com/user-attachments/assets/bb592af8-fd1d-49ee-bdf3-716fb3dc8a65)
-
-![image](https://github.com/user-attachments/assets/5d1b387b-eee2-428a-8ef8-ad5122fe2d74)
+![image](https://github.com/user-attachments/assets/bb592af8-fd1d-49ee-bdf3-716fb3dc8a65)          ![image](https://github.com/user-attachments/assets/5d1b387b-eee2-428a-8ef8-ad5122fe2d74)
 
 ![image](https://github.com/user-attachments/assets/6a1c96d1-5520-4b3d-a895-78360e967678)
 
