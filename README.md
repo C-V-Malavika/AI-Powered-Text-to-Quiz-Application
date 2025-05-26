@@ -1,16 +1,17 @@
-# dashboard
+# AI Powered Text-to-Quiz Application
 
-A new Flutter project.
+## INTRODUCTION
 
-## Getting Started
+This application was built using Flutter, Firebase with a clean architecture, designed to convert user-provided text into interactive multiple-choice quizzes. The application features an intuitive dashboard, Firebase-based user authentication, and a real-time results system, enhancing learning engagement and offering a seamless user experience. 
 
-This project is a starting point for a Flutter application.
+## SCREENSHOTS
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://github.com/user-attachments/assets/bb592af8-fd1d-49ee-bdf3-716fb3dc8a65)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](https://github.com/user-attachments/assets/5d1b387b-eee2-428a-8ef8-ad5122fe2d74)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/6a1c96d1-5520-4b3d-a895-78360e967678)
+
+![image](https://github.com/user-attachments/assets/ba005ff1-4a7a-422f-96e7-dbad02f9e378)
+
+![image](https://github.com/user-attachments/assets/acbbe67e-f701-43b6-9ebc-cbf2f679e335)
