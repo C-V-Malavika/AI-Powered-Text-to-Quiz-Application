@@ -2,7 +2,7 @@
 
 ## INTRODUCTION
 
-This application was built using Flutter, Firebase with a clean architecture, designed to convert user-provided text into interactive multiple-choice quizzes. The application features an intuitive dashboard, Firebase-based user authentication, and a real-time results system, enhancing learning engagement and offering a seamless user experience. 
+This application was built using Flutter, Firebase, Gemini 1.5 Flash API with a clean architecture, designed to convert user-provided text into interactive multiple-choice quizzes. The application features an intuitive dashboard, Firebase-based user authentication, and a real-time results system, enhancing learning engagement and offering a seamless user experience. 
 
 ## SCREENSHOTS
 
